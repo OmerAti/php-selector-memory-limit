@@ -14,6 +14,6 @@ Bu bash script'i, `Php Selector Memory Limit Değeri` değiştirmek için kullan
 ### Script'i Çalıştırma
 1. Script dosyasını indirin veya klonlayın:
    ```bash
-   wget https://github.com/kullanici_adi/my-bash-scripts.git
-   chmod +x change_php_conf.sh
-   ./change_php_conf.sh
+   wget https://raw.githubusercontent.com/OmerAti/php-selector-memory-limit/refs/heads/main/memory-limit.sh
+   chmod +x memory-limit.sh
+   ./memory-limit.sh veya bash memory-limit.sh
